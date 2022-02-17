@@ -8,3 +8,4 @@ Git pages:
 
 
 Netlify:
+https://itzjter-social-proof-section-master.netlify.app/
